@@ -1,0 +1,1 @@
+split -b 90M -d "1. PyTorch- Fundamentals/3. Data Management in PyTorch/Assignments/A1/plants_dataset.zip" "1. PyTorch- Fundamentals/3. Data Management in PyTorch/Assignments/A1/plants_dataset.zip.part_"
